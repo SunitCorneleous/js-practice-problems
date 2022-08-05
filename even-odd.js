@@ -1,4 +1,4 @@
-// Write a function to find even numbers
+// Write a function to find even or odd numbers
 
 function findEvenNum(num) {
   let result = "";
